@@ -4,3 +4,7 @@ just exploring git/github
 bear the boring
 walk with me
 there will be light in the end.
+
+okay now, I am on github.
+let's add some lines
+and how they appear on locally
